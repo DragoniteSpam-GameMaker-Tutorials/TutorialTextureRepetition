@@ -1,6 +1,8 @@
 {
   "resources": [
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":15,},
+    {"id":{"name":"duckbutt","path":"sprites/duckbutt/duckbutt.yy",},"order":17,},
+    {"id":{"name":"spr_checker","path":"sprites/spr_checker/spr_checker.yy",},"order":16,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":14,},
   ],
   "Options": [
